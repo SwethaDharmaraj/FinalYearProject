@@ -131,9 +131,5 @@ This improves both predictive performance and clinical trust.
 
 ---
 
-## Authors
 
-Final Year Computer Science Engineering Project
-
-Kongu Engineering College
 
